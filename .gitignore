@@ -1,0 +1,38 @@
+HELP.md
+#!gradle/wrapper/gradle-wrapper.jar
+/gradle/
+gradlew
+gradlew.bat
+/.gradle/
+
+### STS ###
+.apt_generated
+.classpath
+.factorypath
+.project
+.settings
+.springBeans
+.sts4-cache
+
+### IntelliJ IDEA ###
+.idea
+*.iws
+*.iml
+*.ipr
+
+### NetBeans ###
+/nbproject/private/
+/nbbuild/
+/dist/
+/nbdist/
+/.nb-gradle/
+
+### VS Code ###
+.vscode/
+
+/*/log/
+/*/out/
+/*/build/
+/log/
+/out/
+/build/
